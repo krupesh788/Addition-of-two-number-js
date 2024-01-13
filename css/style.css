@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: silver;
+}
+.container{
+
+
+    margin: 150px;
+}
+
+.btn{
+
+    background-color: blueviolet;
+    color: white;
+    padding: 10px 30px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
